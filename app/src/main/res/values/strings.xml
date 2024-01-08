@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">COMP3025G-W2024-Week1</string>
+    <string name="greeting_string">Hello, World!</string>
+</resources>
